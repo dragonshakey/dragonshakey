@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **dragonshakey/dragonshakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am dragonshakey, I am a young develeper who likes to do new things
-I am currently working on implemeting the backtracking algorithm to solve sudokus in Brainfuck
-my pronouns are he/him
-Its mice to meet you
+##### I am dragonshakey, I am a young develeper who likes to do new things
+##### I am currently working on implemeting the backtracking algorithm to solve sudokus in Brainfuck
+##### my pronouns are he/him
+##### Its mice to meet you
