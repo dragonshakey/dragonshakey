@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ##### I am dragonshakey, I am a young develeper who likes to do new things
-##### I am currently working on implemeting the backtracking algorithm to solve sudokus in Brainfuck
+##### I am currently working on documenting my first brainfuck project
 ##### my pronouns are he/him
 ##### Its mice to meet you
